@@ -1,12 +1,9 @@
-package com.capgemini.taxiV2;
+package com.capgemini.taxiV2_betterVersion;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.capgemini.taxiV2.Position;
-import com.capgemini.taxiV2.Taxi;
-
-public class TaxiTest2 {
+public class TaxiTest {
 
 	@Test
 	public void testidShouldIncrement() {
@@ -28,3 +25,4 @@ public class TaxiTest2 {
 	}
 
 }
+

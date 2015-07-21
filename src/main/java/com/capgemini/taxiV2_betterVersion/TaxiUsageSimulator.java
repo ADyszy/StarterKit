@@ -1,4 +1,4 @@
-package com.capgemini.taxiV2;
+package com.capgemini.taxiV2_betterVersion;
 
 public class TaxiUsageSimulator {
 	private TaxiSet taxiSet;
